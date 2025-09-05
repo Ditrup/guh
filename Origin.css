@@ -2,8 +2,8 @@
   margin: 0;
   padding: 0;
 }
-body {
-  background: #aaffff;
+html {
+  background: gray;
 }
 
 h1 {
